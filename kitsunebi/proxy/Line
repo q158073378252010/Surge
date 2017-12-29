@@ -1,3 +1,4 @@
+[Rule]
 DOMAIN-SUFFIX,lin.ee,PROXY
 DOMAIN-SUFFIX,line.me,PROXY
 DOMAIN-SUFFIX,line.naver.jp,PROXY,force-remote-dns
@@ -20,3 +21,4 @@ IP-CIDR,203.104.103.0/24,PROXY,no-resolve
 IP-CIDR,203.104.128.0/20,PROXY,no-resolve
 IP-CIDR,203.174.66.64/26,PROXY,no-resolve
 IP-CIDR,203.174.77.0/24,PROXY,no-resolve
+FINAL,DIRECT
