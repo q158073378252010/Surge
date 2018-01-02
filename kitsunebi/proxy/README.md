@@ -14,8 +14,8 @@
 	* URL https://raw.githubusercontent.com/q158073378252010/Surge/new2017.12.29.08.30/kitsunebi/proxy/Netflix.conf
 * Telegram.conf————
 	* URL https://raw.githubusercontent.com/q158073378252010/Surge/new2017.12.29.08.30/kitsunebi/proxy/Telegram.conf
-* Top_blocked_sites.conf————被封锁的常用站
-	* URL https://raw.githubusercontent.com/q158073378252010/Surge/new2017.12.29.08.30/kitsunebi/proxy/Twitter.conf
+* Top_blocked_sites.conf————部分被封锁的站
+	* URL https://raw.githubusercontent.com/q158073378252010/Surge/new2017.12.29.08.30/kitsunebi/proxy/Top_blocked_sites.conf
 <!--
 * UA.conf————根据UA代理 注：什么是UA? 请自行google
 	* URL https://raw.githubusercontent.com/q158073378252010/Surge/new2017.12.29.08.30/kitsunebi/proxy/UA.conf
