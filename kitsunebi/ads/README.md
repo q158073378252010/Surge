@@ -16,22 +16,22 @@
 	* URL https://raw.githubusercontent.com/q158073378252010/Surge/new2017.12.29.08.30/kitsunebi/ads/178.conf
 * 2345.conf————2345导航 
 	* URL https://raw.githubusercontent.com/q158073378252010/Surge/new2017.12.29.08.30/kitsunebi/ads/2345.conf
-* 360.conf———— 
+* 360.conf————360杀毒
 	* URL https://raw.githubusercontent.com/q158073378252010/Surge/new2017.12.29.08.30/kitsunebi/ads/360.conf
-* 58.conf———— 
+* 58.conf————58同城
 	* URL https://raw.githubusercontent.com/q158073378252010/Surge/new2017.12.29.08.30/kitsunebi/ads/58.conf
 * AD_Block.conf———— 
 	* URL https://raw.githubusercontent.com/q158073378252010/Surge/new2017.12.29.08.30/kitsunebi/ads/AD_Block.conf
 * Ali.conf————阿里巴巴 
 	* URL https://raw.githubusercontent.com/q158073378252010/Surge/new2017.12.29.08.30/kitsunebi/ads/Ali.conf
-* Ali.conf————阿里巴巴 
-	* URL https://raw.githubusercontent.com/q158073378252010/Surge/new2017.12.29.08.30/kitsunebi/ads/Ali.conf
 * Apple.conf————苹果 
-	* URL https://raw.githubusercontent.com/q158073378252010/Surge/new2017.12.29.08.30/kitsunebi/ads/Ali.conf
+	* URL https://raw.githubusercontent.com/q158073378252010/Surge/new2017.12.29.08.30/kitsunebi/ads/Apple.conf
 * Auto-home.conf————汽车之家autohome.com 
 	* URL https://raw.githubusercontent.com/q158073378252010/Surge/new2017.12.29.08.30/kitsunebi/ads/Auto-home.conf
 * Baidu.conf————百度
 	* URL https://raw.githubusercontent.com/q158073378252010/Surge/new2017.12.29.08.30/kitsunebi/ads/Baidu.conf
+* Book_web.conf————部分小说站 
+	* URL https://raw.githubusercontent.com/q158073378252010/Surge/new2017.12.29.08.30/kitsunebi/ads/Book_web.conf
 * Caiyun.conf————彩云
 	* URL https://raw.githubusercontent.com/q158073378252010/Surge/new2017.12.29.08.30/kitsunebi/ads/Caiyun.conf
 * Dangdang.conf————当当
@@ -58,7 +58,7 @@
 	* URL https://raw.githubusercontent.com/q158073378252010/Surge/new2017.12.29.08.30/kitsunebi/ads/Moji.conf
 * Other.conf————
 	* URL https://raw.githubusercontent.com/q158073378252010/Surge/new2017.12.29.08.30/kitsunebi/ads/Other.conf
-* QQ.conf————腾讯
+* QQ.conf————腾讯QQ
 	* URL https://raw.githubusercontent.com/q158073378252010/Surge/new2017.12.29.08.30/kitsunebi/ads/QQ.conf
 * Qingting.conf————蜻蜓FM
 	* URL https://raw.githubusercontent.com/q158073378252010/Surge/new2017.12.29.08.30/kitsunebi/ads/Qingting.conf
