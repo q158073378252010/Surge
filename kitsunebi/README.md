@@ -21,18 +21,18 @@ e.g：输入 https://raw.githubusercontent.com/q158073378252010/Surge/new2017.12
 <img src="https://raw.githubusercontent.com/q158073378252010/Surge/new2017.12.29.08.30/kitsunebi/image/home_url-2.PNG" High="378" Width="213" alt="image2" >
 </div>
 
-### 规则目录说明与地址“前缀” 
+### 规则目录说明与地址“索引” 
 
 #### 注：规则内容有部分重复,建议只增加 proxy 中的规则，ads 中的规则请谨慎添加，以免造成网址、视频、app加载内容缓慢的问题。（当然也许是dns的锅）
 
 * ads————广告相关  
 
-	* 前缀 https://raw.githubusercontent.com/q158073378252010/Surge/new2017.12.29.08.30/kitsunebi/ads/
+	* 目录索引 https://github.com/q158073378252010/Surge/tree/new2017.12.29.08.30/kitsunebi/ads/README.md
 
 * direct————直连相关
 		
-	* 前缀 https://raw.githubusercontent.com/q158073378252010/Surge/new2017.12.29.08.30/kitsunebi/direct/
+	* 目录索引 https://github.com/q158073378252010/Surge/tree/new2017.12.29.08.30/kitsunebi/direct/README.md
 
 * proxy————代理相关
 
-	* 前缀 https://raw.githubusercontent.com/q158073378252010/Surge/new2017.12.29.08.30/kitsunebi/proxy/
+	* 目录索引 https://github.com/q158073378252010/Surge/tree/new2017.12.29.08.30/kitsunebi/proxy/README.md
