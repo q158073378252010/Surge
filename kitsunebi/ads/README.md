@@ -1,17 +1,17 @@
 ### 规则目录与URL
 
 * ./app————app类
-	* 索引地址 https://github.com/q158073378252010/Surge/tree/new2017.12.29.08.30/kitsunebi/ads/app/
+	* 索引地址 https://github.com/q158073378252010/Surge/tree/new2017.12.29.08.30/kitsunebi/ads/app/README.md
 * ./video-apps————视频app类
-	* 索引地址 https://github.com/q158073378252010/Surge/tree/new2017.12.29.08.30/kitsunebi/ads/video-apps/
+	* 索引地址 https://github.com/q158073378252010/Surge/tree/new2017.12.29.08.30/kitsunebi/ads/video-apps/README.md
 * 10000.conf————中国电信
-		* URL https://raw.githubusercontent.com/q158073378252010/Surge/new2017.12.29.08.30/kitsunebi/ads/10000.conf
+	* URL https://raw.githubusercontent.com/q158073378252010/Surge/new2017.12.29.08.30/kitsunebi/ads/10000.conf
 * 10086.conf————中国移动
 	* URL https://raw.githubusercontent.com/q158073378252010/Surge/new2017.12.29.08.30/kitsunebi/ads/10086.conf
 * 163.conf———— 
 	* URL https://raw.githubusercontent.com/q158073378252010/Surge/new2017.12.29.08.30/kitsunebi/ads/163.conf
 * 17173.conf————17173游戏网
-		* URL https://raw.githubusercontent.com/q158073378252010/Surge/new2017.12.29.08.30/kitsunebi/ads/17173.conf
+	* URL https://raw.githubusercontent.com/q158073378252010/Surge/new2017.12.29.08.30/kitsunebi/ads/17173.conf
 * 178.conf————178魔兽世界
 	* URL https://raw.githubusercontent.com/q158073378252010/Surge/new2017.12.29.08.30/kitsunebi/ads/178.conf
 * 2345.conf————2345导航 
@@ -89,9 +89,9 @@
 * Zhihu.conf————知乎
 	* URL https://raw.githubusercontent.com/q158073378252010/Surge/new2017.12.29.08.30/kitsunebi/ads/Zhihu.conf
 * ele.conf————
-	* URL https://raw.githubusercontent.com/q158073378252010/Surge/new2017.12.29.08.30/kitsunebi/ads/Tumblr.conf
-* mop.conf————
+	* URL https://raw.githubusercontent.com/q158073378252010/Surge/new2017.12.29.08.30/kitsunebi/ads/ele.conf
+* mop.conf————猫扑网
 	* URL https://raw.githubusercontent.com/q158073378252010/Surge/new2017.12.29.08.30/kitsunebi/ads/mop.conf
 * renren.conf————人人网
-	* URL https://raw.githubusercontent.com/q158073378252010/Surge/new2017.12.29.08.30/kitsunebi/ads/Tumblr.conf
+	* URL https://raw.githubusercontent.com/q158073378252010/Surge/new2017.12.29.08.30/kitsunebi/ads/renren.conf
 
