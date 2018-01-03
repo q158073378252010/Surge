@@ -14,6 +14,10 @@
 	* URL https://raw.githubusercontent.com/q158073378252010/Surge/new2017.12.29.08.30/kitsunebi/proxy/line.conf
 * Netflix.conf————
 	* URL https://raw.githubusercontent.com/q158073378252010/Surge/new2017.12.29.08.30/kitsunebi/proxy/Netflix.conf
+<!--
+* Steam.conf————
+	* URL https://raw.githubusercontent.com/q158073378252010/Surge/new2017.12.29.08.30/kitsunebi/proxy/Steam.conf
+-->
 * Telegram.conf————
 	* URL https://raw.githubusercontent.com/q158073378252010/Surge/new2017.12.29.08.30/kitsunebi/proxy/Telegram.conf
 * Top_blocked_sites.conf————部分被封锁的站
