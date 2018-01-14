@@ -11,7 +11,7 @@
 * Kakao_Talk.conf————
 	* URL https://raw.githubusercontent.com/q158073378252010/Surge/new2017.12.29.08.30/kitsunebi/proxy/Kakao_Talk.conf
 * Line.conf————
-	* URL https://raw.githubusercontent.com/q158073378252010/Surge/new2017.12.29.08.30/kitsunebi/proxy/line.conf
+	* URL https://raw.githubusercontent.com/q158073378252010/Surge/new2017.12.29.08.30/kitsunebi/proxy/Line.conf
 * Netflix.conf————
 	* URL https://raw.githubusercontent.com/q158073378252010/Surge/new2017.12.29.08.30/kitsunebi/proxy/Netflix.conf
 <!--
