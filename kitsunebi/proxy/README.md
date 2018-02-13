@@ -1,3 +1,5 @@
+* ./GFWList————根据app_UA代理 
+	* 索引地址 https://github.com/q158073378252010/Surge/tree/new2017.12.29.08.30/kitsunebi/proxy/GFWList/README.md
 * ./UA————根据app_UA代理 
 	* 索引地址 https://github.com/q158073378252010/Surge/tree/new2017.12.29.08.30/kitsunebi/proxy/UA/README.md
 <!--
