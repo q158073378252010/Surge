@@ -9,7 +9,7 @@
 
 e.g：输入 https://raw.githubusercontent.com/q158073378252010/Surge/new2017.12.29.08.30/kitsunebi/proxy/Top_blocked_sites.conf
 
-则导入 Top_blocked_sites.conf 文件中的规则。 注：当前导入的规则不会覆盖前一次导入规则。如你使用自定义配置，一要在 ＜高级特性＞ 中开 ＜覆盖路由规则＞ 否则不会生效。
+则导入 Top_blocked_sites.conf 文件中的规则。 注：当前导入的规则不会覆盖前一次导入规则。如你使用自定义配置，一要在 ＜高级特性＞ 中开 ＜覆盖路由规则＞ 否则不会生效。<font color="red"> *如果添加不成功可能是域名[raw.githubusercontent.com](http://raw.githubusercontent.com)遭到封锁请先添加该域名为代理访问。或者全局模式添加规则！*</font>
 <!--
 [^_^]:
 ![](https://raw.githubusercontent.com/q158073378252010/Surge/new2017.12.29.08.30/kitsunebi/image/home_url-1.PNG)
